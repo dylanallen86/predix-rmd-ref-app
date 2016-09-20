@@ -23,7 +23,7 @@
 	url = http://github.com/PredixDev/rmd-datasource.git
 [submodule "rmd-ref-app-ui"]
 	path = rmd-ref-app-ui
-	url = http://github.com/PredixDev/rmd-ref-app-ui.git
+	url = https://github.com/dylanallen86/rmd-ref-app-ui.git
 [submodule "predix-websocket-server"]
 	path = predix-websocket-server
 	url = http://github.com/PredixDev/predix-websocket-server.git
